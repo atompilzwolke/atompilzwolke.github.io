@@ -10,3 +10,5 @@ Aloy ist die Protagonistin aus dem 2017 erschienenen Spiel Horizon Zero Dawn (HZ
 
 Wie sie immer zu sagen pflegt:
 > Wenn Rost doch nur hier wäre...
+
+<img src="https://vignette.wikia.nocookie.net/horizonzerodawn/images/6/6e/Aloy_Konzeptzeichnung.jpg/revision/latest?cb=20170331105023&path-prefix=de"/> 
