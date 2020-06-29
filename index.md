@@ -7,3 +7,6 @@ Aloy ist die Protagonistin aus dem 2017 erschienenen Spiel Horizon Zero Dawn (HZ
 * hilfsbereit
 * unerschrocken
 * tödlich
+
+Wie sie immer zu sagen pflegt:
+> Wenn Rost doch nur hier wäre...
